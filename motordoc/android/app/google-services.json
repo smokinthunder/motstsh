@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374053022503",
+    "project_id": "motordoc-a05b2",
+    "storage_bucket": "motordoc-a05b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374053022503:android:097787c9aa795164d65702",
+        "android_client_info": {
+          "package_name": "com.Motordoc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8mRV46k9syBYJhAjuxzmWkwy5GK9lyaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374053022503:android:283a57edaf0bb1add65702",
+        "android_client_info": {
+          "package_name": "com.example.motor_doc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8mRV46k9syBYJhAjuxzmWkwy5GK9lyaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
